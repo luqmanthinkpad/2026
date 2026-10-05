@@ -1,6 +1,6 @@
 // sticky-ads.js – Self-contained sticky ad injector
 (function() {
-    const AD_DOMAIN = "anguishgrandpa.com";
+    const AD_DOMAIN = "hiibel.com/22";
 
     // Core function to inject the ad iframe into a container
     const injectIframeAd = (containerId, key, width, height) => {
@@ -40,7 +40,7 @@
                         'params' : {}
                     };
                 <\/script>
-                <script type="text/javascript" src="https://${AD_DOMAIN}/${key}/invoke.js"><\/script>
+                <script type="text/javascript" src="https://${AD_DOMAIN}/${key}"><\/script>
             </body>
             </html>
         `);
