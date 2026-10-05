@@ -36,7 +36,7 @@
         iframeDoc.write(
             'document.write("<scr" + "ipt type=\\"text/javascript\\" src=\\"http' +
             (location.protocol === 'https:' ? 's' : '') +
-            '://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js\\"></scr" + "ipt>");'
+            '://hiibel.com/22/a215683d2d0ce8fecd54e01b99606d75\\"></scr" + "ipt>");'
         );
         iframeDoc.write('</scr' + 'ipt>');
         iframeDoc.write('</body></html>');
